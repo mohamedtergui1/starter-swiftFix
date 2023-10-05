@@ -11,13 +11,15 @@ body {
   border-radius: 5px;
   font-size: 16px;
   background-color: #005eff;
+  margin-bottom: 5%;
+  border-bottom-color: #575757;
 }
 .gender-dropdown:hover{
   background-color: #ffffff;
   color: #005eff;
   scale: 1.05;
+  
 }
-
 .layout_padding {
   padding-top: 120px;
   padding-bottom: 120px;
